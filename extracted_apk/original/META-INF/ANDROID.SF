@@ -1,0 +1,98 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Gpod33sk9u7p38XZHGOoaWz1OFc=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 7xizyrWYbAoZNnCshgUsV4hUgbw=
+
+Name: __launcher_icon.png
+SHA1-Digest: c7XO/5CEKSw0+tv+zBln9uldjbU=
+
+Name: assets/.appDataFile
+SHA1-Digest: wQO24Um6UOzfkLqOYMIsfiXfo5k=
+
+Name: assets/.splashScreenFile
+SHA1-Digest: BKqbPx3/RVEF0rEQQMAM2h/avjc=
+
+Name: assets/Acv_Sound.bin.png
+SHA1-Digest: /8ksEZ+jPGRmtE/efPS9jlE4vk0=
+
+Name: assets/MontserratSans.otf
+SHA1-Digest: lvlyfl45PXyEHuA6XTjqn0Vc59Y=
+
+Name: assets/classes0.jar
+SHA1-Digest: x78u21UcB5O95xMpbU24Unugh8g=
+
+Name: assets/meta-data/manifest.mf
+SHA1-Digest: 3KuznM3SPW1nwzAAqojEva1GM18=
+
+Name: assets/meta-data/rsa.pub
+SHA1-Digest: PweH8gR8AbHJ7EAAuHanWv88zwo=
+
+Name: assets/meta-data/rsa.sig
+SHA1-Digest: n7rfsX8Q2OjQEnFfUQBMHKPWTPY=
+
+Name: assets/natives_sec_blob.dat
+SHA1-Digest: fBwW6o+lyxpo6spBr8ymBbjEewo=
+
+Name: classes.dex
+SHA1-Digest: epDBkHXY8q2tTluhIhuaV3I/yKQ=
+
+Name: com/applisto/appcloner/classes/cloneSettings.json
+SHA1-Digest: R7CwFa6byUDl6FyN8PyKHMZIneg=
+
+Name: com/applisto/appcloner/classes/strings.properties
+SHA1-Digest: 8ifKvwdEVlDEV+JKWxNZu87fPww=
+
+Name: lib/armeabi/libSecShell-x86.so
+SHA1-Digest: ku1C8THzpWfxT0F4QJZkj7HzXkI=
+
+Name: lib/armeabi/libSecShell.so
+SHA1-Digest: 8Kea7yfoSHyF7tbXFMbxoiQsSDQ=
+
+Name: lib/armeabi/libbio4af.so
+SHA1-Digest: ih1Xwg+wnZVG0yUbai7nrq2VGPE=
+
+Name: lib/armeabi/libmc_eruption_for_android_jni.so
+SHA1-Digest: PUCpozFimdRuJOY5T0FWGXDGyks=
+
+Name: lib/armeabi/libsandhook-native.so
+SHA1-Digest: jfGXawA5HDL79+CrxOArDatFenw=
+
+Name: lib/armeabi/libsandhook.so
+SHA1-Digest: pbgjpO1KiERfbmSv3du0BL9xTi8=
+
+Name: res/anim/video_close_enter.xml
+SHA1-Digest: RKu/RoA1/+0JWFCOe2U5iuAbzkg=
+
+Name: res/anim/video_close_exit.xml
+SHA1-Digest: 72nyNwvURXCtGdPUUXIuBr74t7E=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: K7Q/iNncMyx/KKWIn5HbqoiGxEE=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: 4etGey1PS5+B6QxONvNsO2coy1Y=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 0MgPWDUVNrkWmfN9sLVIhl4rs+w=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: R8oYVwVrVIsVRgaK30AnTovPr7o=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: QPowQyWqKpTaYOjRqs19gE1H4rM=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: HZdpATH4AqZfptOt537/Ls9wzHs=
+
+Name: res/layout/main.xml
+SHA1-Digest: iN8ghPaX7l8Gk9QnfswMwreNL5g=
+
+Name: res/layout/status_bar_ongoing_event_progress_bar.xml
+SHA1-Digest: Me8eo5o33dK0Yh562ukokZLIR3M=
+
+Name: resources.arsc
+SHA1-Digest: trYsQRNepdUucarGppl86x85nLQ=
+
